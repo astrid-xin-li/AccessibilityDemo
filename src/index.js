@@ -7,8 +7,8 @@ import Demo from "./Demo";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
-    <App />
     <Demo />
+    <App />
   </StrictMode>,
   rootElement
 );
