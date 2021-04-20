@@ -3,14 +3,16 @@ import ReactDOM from "react-dom";
 
 import App from "./App";
 import Demo from "./Demo";
-import TestDome from "./Test";
+import TabIndexTestDome from "./TabIndexTest";
+import AriaTestDome from "./AriaTest";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
-    <TestDome />
-    {/* <Demo /> */}
-    {/* <App /> */}
+    {/* <Demo />
+    <App />
+    <TabIndexTestDome /> */}
+    <AriaTestDome />
   </StrictMode>,
   rootElement
 );
