@@ -1,6 +1,6 @@
 import React from "react";
-import "./Demo.css";
-export default class Demo extends React.Component {
+import "./CanvasDemo.css";
+export default class CanvasDemo extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
