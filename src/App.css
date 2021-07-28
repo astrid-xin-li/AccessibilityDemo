@@ -1,12 +1,15 @@
-#image {
+/* #image {
   width: 500px;
   height: 250px;
   background: url(http://static.runoob.com/images/demo/demo4.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-}
-#myAnchor {
+} */
+#tencent {
   position: fixed;
-  bottom: 10px;
-  left: 100px;
+  bottom: 370px;
+  left: 10px;
+}
+input {
+  margin: 20px;
 }

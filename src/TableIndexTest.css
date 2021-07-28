@@ -2,4 +2,11 @@
   border: 5px solid purple;
   width: auto;
   height: auto;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+#divTabIndexTest {
+  width: 500px;
+  height: auto;
+  border: 3px solid brown;
 }

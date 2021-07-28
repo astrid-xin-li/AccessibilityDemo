@@ -1,5 +1,20 @@
 #ariaContent {
-  border: 5px solid blue;
+  /* border: 5px solid blue;
   width: auto;
-  height: auto;
+  height: auto; */
+}
+.button-fack {
+  background: blue;
+  margin: 10px;
+  padding: 2px 4px;
+  width: 88px;
+  color: white;
+  border-radius: 5px;
+}
+#image {
+  width: 200px;
+  height: 80px;
+  background: url(https://docs.idqqimg.com/tim/docs/desktop/image/list_logo-230232562f.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
